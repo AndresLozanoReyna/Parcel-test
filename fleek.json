@@ -1,0 +1,6 @@
+{
+  "id": "cle7xuz1x0000l708kim5bpbz",
+  "name": "parcel-test",
+  "distDir": "dist",
+  "buildCommand": "npm run build"
+}
